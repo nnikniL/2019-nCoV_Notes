@@ -135,9 +135,9 @@
 
 同时，计算得到的每日复合增长率降到了35%的水平，且复合增长率也呈现下降趋势；但即使这样，截止到2月5日24时，累计确诊数仍很大可能突破1.6W<0.97*(0.15*5+1)。
 
-#### 最新疫情情况
+#### 2020年2月4日，拐点的预期出现
 
-![](./images/2019ncov_progress_china_newest.png)
+![](./images/2019ncov_progress_china_200204.png)
 上图中可以看到，疑似病例数增长明显放缓。
 <br/>
 
@@ -153,10 +153,42 @@
 
 下图为确诊病例的地区分布
 ![](./images/2019ncov_progress_ConfirmedCase_AreaStructure.PNG)
-上图显示非湖北省的确诊病例数占比在不断下降。
+上图显示<b>非</b>湖北省的确诊病例数占比在不断下降。
+<br/>
 
 综合以上，疫情往好的方向发展，在逐渐量变，未形成质变，且速度还不够。
 目前能看到比较乐观的信号有：1、疑似病例的增长放缓，2、根据确诊病例的区域结构，疫情全国爆发的风险逐渐降低。
+<br/>
+
+#### 最新疫情情况
+如下为最新疫情情况：
+![](./images/2019ncov_progress_china_newest.png)
+<br/>
+可以发现，<a href="./SARS疫情与武汉新冠疫情.md#病例数据">上文</a>提到的拐点“2、确诊与治疗的平衡点”正在酝酿之中，可能在10日内形成，但由于本身基数比较大，所以对医疗系统的考验较大。
+<br/>
+
+#### 思考题
+近日整理数据时发现一个命题挺有意思的，数据如下（数据来源为权威媒体[10,18-20]，首例数据的离线缓存在<a href="./各省首例确诊新闻">这里</a>）：
+<table align="center">
+<tr><td align="center">省份</td><td align="center">首例日期</td><td align="center">270例左右日期</td><td align="center">该日期病例数</td><td align="center">首例与270例左右的跨度/天</tr>
+<tr><td align="center">湖北</td><td align="center">2019/12/8</td><td align="center">2020/1/21</td><td align="center">270</td><td align="center">44</tr>
+<tr><td align="center">广东</td><td align="center">2020/1/19</td><td align="center">2020/1/29</td><td align="center">277</td><td align="center">10</tr>
+<tr><td align="center">浙江</td><td align="center">2020/1/17</td><td align="center">2020/1/29</td><td align="center">296</td><td align="center">12</tr>
+<tr><td align="center">河南</td><td align="center">2020/1/21</td><td align="center">2020/1/30</td><td align="center">278</td><td align="center">9</tr>
+<tr><td align="center">湖南</td><td align="center">2020/1/21</td><td align="center">2020/1/30</td><td align="center">277</td><td align="center">9</tr>
+<tr><td align="center">安徽</td><td align="center">2020/1/22</td><td align="center">2020/2/1</td><td align="center">297</td><td align="center">10</tr>
+<tr><td align="center">江西</td><td align="center">2020/1/21</td><td align="center">2020/2/1</td><td align="center">286</td><td align="center">11</tr>
+<tr><td align="center">江苏</td><td align="center">2020/1/22</td><td align="center">2020/2/3</td><td align="center">271</td><td align="center">12</tr>
+<tr><td align="center">重庆</td><td align="center">2020/1/21</td><td align="center">2020/2/2</td><td align="center">275</td><td align="center">12</tr>
+<tr><td align="center">山东</td><td align="center">2020/1/21</td><td align="center">2020/2/4</td><td align="center">270</td><td align="center">14</tr>
+<tr><td align="center">四川</td><td align="center">2020/1/21</td><td align="center">2020/2/4</td><td align="center">282</td><td align="center">14</tr>
+<tr><td align="center">北京</td><td align="center">2020/1/20</td><td align="center">2020/2/6</td><td align="center">274</td><td align="center">17</tr>
+<tr><td align="center">上海</td><td align="center">2020/1/20</td><td align="center">2020/2/7</td><td align="center">269</td><td align="center">18</tr>
+<tr><td align="center">黑龙江</td><td align="center">2020/1/23</td><td align="center">2020/2/7</td><td align="center">277</td><td align="center">15</tr>
+</table>
+从这样的数据中，您可以得到什么结论呢？
+<br/>
+
 
 ## 参考文献（Reference）
 
@@ -203,3 +235,9 @@
 [16]. [https://www.12306.cn/mormhweb/zxdt/202001/t20200127\_28094.html](https://www.12306.cn/mormhweb/zxdt/202001/t20200127_28094.html) . [OL]
 
 [17]. [https://baike.baidu.com/item/武汉蔡甸火神山医院](https://baike.baidu.com/item/%E6%AD%A6%E6%B1%89%E8%94%A1%E7%94%B8%E7%81%AB%E7%A5%9E%E5%B1%B1%E5%8C%BB%E9%99%A2) . [OL]
+
+[18]. 央视新闻[https://weibo.com/cctvxinwen] . [OL]
+
+[19]. 人民日报[https://weibo.com/rmrb] . [OL]
+
+[20]. 健康上海12320[https://weibo.com/u/2372649470] . [OL]
