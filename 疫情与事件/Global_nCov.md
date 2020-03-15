@@ -33,16 +33,14 @@
 
 ### 当前各区域所处阶段
 <table align=center>
-<tr><td>区域</td><td>判据</td><td>当前阶段</td></tr>
-<tr><td>中国-湖北</td><td>近五日均在疗增长率-8.44%，测算12日内可清零，在疗占比累计确诊17.36%</td><td>控制中-月内清零</td></tr>
-<tr><td>中国-非湖北</td><td>在疗占比确诊2.43%</td><td>清库存</td></tr>
-<tr><td>欧洲</td><td>确诊32013，增长率32%</td><td>失控中</td></tr>
-<tr><td>意大利</td><td>确诊15113，增长率21%</td><td>失控中</td></tr>
-<tr><td>伊朗</td><td>确诊11364，增长率12%</td><td>失控中</td></tr>
-<tr><td>韩国</td><td>在疗负增长</td><td>控制中</td></tr>
-<tr><td>西班牙</td><td>确诊4209，增长率41%</td><td>失控中</td></tr>
-<tr><td>德国</td><td>近五日均增长30.4%，确诊3117</td><td>初始-预失控</td></tr>
-<tr><td>法国</td><td>近五日均增长26.17%，确诊2876</td><td>初始-预失控</td></tr>
-<tr><td>北美</td><td>近五日均增长30.77%，确诊1863</td><td>初始-预失控</td></tr>
-<tr><td>美国</td><td>近五日均增长31.42%，确诊1635</td><td>初始-预失控</td></tr>
+<tr><td>区域</td><td>日期</td><td>判据</td><td>当前阶段</td></tr>
+<tr><td>中国-湖北</td><td>20200315</td><td>现有在疗数5日均增长率测算得到10.5549日内在疗数可清零</td><td bgcolor="#00aa88"><font color="white">控制中-月内清零</font></td></tr>
+<tr><td>欧洲</td><td>20200315</td><td>确诊数增长率24.7177>10% 且 在疗数增长率23.376>0%</td><td bgcolor="#ff0055"><font color="white">失控中</font></td></tr>
+<tr><td>德国</td><td>20200315</td><td>确诊数增长率56.1116>10% 且 在疗数增长率56.4276>0%</td><td bgcolor="#ff0055"><font color="white">失控中</font></td></tr>
+<tr><td>伊朗</td><td>20200315</td><td>无悲观指标</td><td bgcolor="#00aa88"><font color="white">控制中</font></td></tr>
+<tr><td>意大利</td><td>20200315</td><td>确诊数增长率20.4417>10% 且 在疗数增长率19.445>0%</td><td bgcolor="#ff0055"><font color="white">失控中</font></td></tr>
+<tr><td>韩国</td><td>20200315</td><td>无悲观指标</td><td bgcolor="#00aa88"><font color="white">控制中</font></td></tr>
+<tr><td>西班牙</td><td>20200315</td><td>确诊数增长率22.1904>10% 且 在疗数增长率14.3002>0%</td><td bgcolor="#ff0055"><font color="white">失控中</font></td></tr>
+<tr><td>法国</td><td>20200315</td><td>确诊数增长率22.9172>10% 且 在疗数增长率22.493>0%</td><td bgcolor="#ff0055"><font color="white">失控中</font></td></tr>
+
 </table>
