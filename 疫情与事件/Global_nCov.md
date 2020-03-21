@@ -33,16 +33,21 @@
 
 ### 当前各区域所处阶段
 <table align=center>
-<tr><td>区域 Area</td><td>日期 Date</td><td>判据 Judgement</td><td>当前阶段 Current Phase</td><td>治愈率 Cured /%</td><td>死亡率</td><td>确诊增长率</td><td>在疗增长率</td></tr>
-<tr><td>中国-湖北</td><td>20200318</td><td>现有在疗数5日均增长率测算得到9.9468日内在疗数可清零</td><td bgcolor="#00aa88"><font color="white">控制中-月内清零</font></td><td>83.9631%</td><td>4.6047%</td><td>0.0014749%</td><td>-10.7542%</td></tr>
-<tr><td>欧洲</td><td>20200318</td><td>确诊数增长率18.6846>10% 且 在疗数增长率18.5655>0%</td><td bgcolor="#ff0055"><font color="white">失控中</font></td><td>6.0063%</td><td>4.3078%</td><td>18.6846%</td><td>18.5655%</td></tr>
-<tr><td>德国</td><td>20200318</td><td>确诊数增长率44.2857>10% 且 在疗数增长率45.0442>0%</td><td bgcolor="#ff0055"><font color="white">失控中</font></td><td>1.1934%</td><td>0.22984%</td><td>44.2857%</td><td>45.0442%</td></tr>
-<tr><td>伊朗</td><td>20200318</td><td>无悲观指标</td><td bgcolor="#00aa88"><font color="white">控制中</font></td><td>32.8898%</td><td>6.5376%</td><td>7.3721%</td><td>7.3938%</td></tr>
-<tr><td>意大利</td><td>20200318</td><td>确诊数增长率12.6019>10% 且 在疗数增长率12.9545>0%</td><td bgcolor="#ff0055"><font color="white">失控中</font></td><td>9.3347%</td><td>7.9445%</td><td>12.6019%</td><td>12.9545%</td></tr>
-<tr><td>韩国</td><td>20200318</td><td>无悲观指标</td><td bgcolor="#00aa88"><font color="white">控制中</font></td><td>18.305%</td><td>0.99845%</td><td>1.1178%</td><td>-0.71658%</td></tr>
-<tr><td>西班牙</td><td>20200318</td><td>确诊数增长率22.7053>10% 且 在疗数增长率24.6195>0%</td><td bgcolor="#ff0055"><font color="white">失控中</font></td><td>7.8813%</td><td>4.3599%</td><td>22.7053%</td><td>24.6195%</td></tr>
-<tr><td>法国</td><td>20200318</td><td>确诊数增长率16.5385>10% 且 在疗数增长率7.8152>0%</td><td bgcolor="#ff0055"><font color="white">失控中</font></td><td>7.7878%</td><td>2.2639%</td><td>16.5385%</td><td>7.8152%</td></tr>
-<tr><td>美国</td><td>20200318</td><td>确诊数增长率37.7387>10% 且 在疗数增长率37.9173>0%</td><td bgcolor="#ff0055"><font color="white">失控中</font></td><td>1.1526%</td><td>1.6822%</td><td>37.7387%</td><td>37.9173%</td></tr>
+<tr><td>区域 Area</td><td>GDP 排名/Rank</td><td>日期 Date</td><td>判据 Judgement</td><td>当前阶段 Current Phase</td><td>治愈率 Cured /%</td><td>死亡率</td><td>确诊增长率</td><td>在疗增长率</td></tr>
+<tr><td>中国-湖北</td><td>2</td><td>20200320</td><td>在疗数占总确诊数9.2699%,现有在疗数5日均增长率测算得到10.4008日内在疗数可清零</td><td bgcolor="#00aa88"><font color="white">清库存</font></td><td>86.1091%</td><td>4.6209%</td><td>0%</td><td>-10.0601%</td></tr>
+<tr><td>美国</td><td>1</td><td>20200320</td><td>确诊数增长率51.3542>10% 且 在疗数增长率52.0424>0%</td><td bgcolor="#ff0055"><font color="white">失控中</font></td><td>0.84912%</td><td>1.4596%</td><td>51.3542%</td><td>52.0424%</td></tr>
+<tr><td>日本</td><td>3</td><td>20200320</td><td>有确诊病例，但情况轻微</td><td>初始</td><td>16.2023%</td><td>3.5088%</td><td>3.5256%</td><td>4.0107%</td></tr>
+<tr><td>欧洲</td><td>-</td><td>20200320</td><td>确诊数增长率17.2339>10% 且 在疗数增长率16.3454>0%</td><td bgcolor="#ff0055"><font color="white">失控中</font></td><td>6.8227%</td><td>4.6145%</td><td>17.2339%</td><td>16.3454%</td></tr>
+<tr><td>德国</td><td>4</td><td>20200320</td><td>确诊数增长率28.9485>10% 且 在疗数增长率29.2125>0%</td><td bgcolor="#ff0055"><font color="white">失控中</font></td><td>0.87441%</td><td>0.28499%</td><td>28.9485%</td><td>29.2125%</td></tr>
+<tr><td>法国</td><td>6</td><td>20200320</td><td>确诊数增长率20.3744>10% 且 在疗数增长率12.76>0%</td><td bgcolor="#ff0055"><font color="white">失控中</font></td><td>11.8236%</td><td>3.3834%</td><td>20.3744%</td><td>12.76%</td></tr>
+<tr><td>英国</td><td>7</td><td>20200320</td><td>有确诊病例，但情况轻微</td><td>初始</td><td>2.4166%</td><td>4.405%</td><td>24.4859%</td><td>23.9723%</td></tr>
+<tr><td>伊朗</td><td>29</td><td>20200320</td><td>无悲观指标现有在疗数5日均增长率测算得到-17.0232日内在疗数可清零</td><td bgcolor="#00aa88"><font color="white">控制中</font></td><td>34.3362%</td><td>7.2948%</td><td>6.7203%</td><td>2.8894%</td></tr>
+<tr><td>意大利</td><td>9</td><td>20200320</td><td>确诊数增长率11.7267>10% 且 在疗数增长率11.6569>0%</td><td bgcolor="#ff0055"><font color="white">失控中</font></td><td>10.82%</td><td>8.2978%</td><td>11.7267%</td><td>11.6569%</td></tr>
+<tr><td>韩国</td><td>11</td><td>20200320</td><td>无悲观指标现有在疗数5日均增长率测算得到36.8517日内在疗数可清零</td><td bgcolor="#00aa88"><font color="white">控制中</font></td><td>25.8091%</td><td>1.1558%</td><td>1.0158%</td><td>-3.1868%</td></tr>
+<tr><td>西班牙</td><td>14</td><td>20200320</td><td>确诊数增长率16.5218>10% 且 在疗数增长率13.6676>0%</td><td bgcolor="#ff0055"><font color="white">失控中</font></td><td>7.9479%</td><td>5.015%</td><td>16.5218%</td><td>13.6676%</td></tr>
+<tr><td>荷兰</td><td>18</td><td>20200320</td><td>有确诊病例，但情况轻微</td><td>初始</td><td>0%</td><td>2.3577%</td><td>19.9415%</td><td>20.5218%</td></tr>
+<tr><td>瑞士</td><td>20</td><td>20200320</td><td>确诊数增长率13.089>10% 且 在疗数增长率13.0511>0%</td><td bgcolor="#ff0055"><font color="white">失控中</font></td><td>0.07716%</td><td>1.0031%</td><td>13.089%</td><td>13.0511%</td></tr>
+
 
 
 </table>
